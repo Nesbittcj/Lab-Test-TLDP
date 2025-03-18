@@ -79,7 +79,9 @@
 @media (prefers-reduced-motion: no-preference) {
   :root {
     scroll-behavior: smooth; } }
-
+#my{
+zoom: 100%;
+}
 body {
   margin: 0;
   font-family: var(--bs-body-font-family);
